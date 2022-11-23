@@ -1,0 +1,50 @@
+﻿Question,Answer,Intent,tag
+Hi,Hey :-),greeting,Welcome
+    Hey,"    Hello, thanks for visiting",greeting,Welcome
+    How are you,"    Hi there, what can I do for you?",greeting,Welcome
+    Is anyone there?,"    Hi there, how can I help?",greeting,Welcome
+    Hello,    Is there anything I can help you.,greeting,Welcome
+    Good day,"    Hi there, how can I help?",greeting,Welcome
+"Bye,","See you later, thanks for visiting",goodbye,Welcome
+See you later,    Have a nice day,goodbye,Welcome
+Goodbye,    Bye! Come back again soon.,goodbye,Welcome
+Goodbye,"    Nice Meeting you, hope I see you back soon.",goodbye,Welcome
+Thanks,Happy to help!,thanks,Welcome
+Thank you,    Any time!,thanks,Welcome
+Thats helpful,    My pleasure.,thanks,Welcome
+Thanks a lot!,"    Never mention, I am more thankful you contacted us.",thanks,Welcome
+Thank you for help,    Sure! You can contact us anytime.,thanks,Welcome
+Which items do you have?,We sell both veg and chicken pizzas.,items,Food
+    What kinds of items are there?,    You can get veg and finger licking chicken pizzas.,items,Food
+    What do you sell?,    If you are non-veg we can deliver you chicken pizza if not veg pizza is also on the menu.,items,Food
+    What can I get from you?,We sell both veg and chicken pizzas.,items,Food
+    What is available?,    You can get veg and finger licking chicken pizzas.,items,Food
+    What is on the menu?,    If you are non-veg we can deliver you chicken pizza if not veg pizza is also on the menu.,items,Food
+What drinks you have?,"We can offer soft drinks like Pepsi, Coca, Spirit, and beers.",beverage,Beverage
+What drinks you can offer?,"We have beers and soft drinks like Pepsi, Coca, Spirit.",beverage,Beverage
+Can I have some beverages?,"Beers and soft drinks like Pepsi, Coca, Spirit are available.",beverage,Beverage
+Any beverages here?,"We serve beers and soft drinks like Pepsi, Coca, Spirit.",beverage,Beverage
+Do you take credit cards?,"We accept eTransfer, googlepay and cash",payments,Payment
+    Do you accept credit cards?,    You either eTransfer and Google Pay us or can pay in cash,payments,Payment
+    Can I pay with Google Pay?,"    If you dont use online payment method you can pay us in cash, and if you do you may eTransfer or Google Pay us.",payments,Payment
+    Are you cash only?,"    For customers convenience, we accept eTransfer, Google Pay and cash.",payments,Payment
+    Do you accept online payment.,"It's good if you can pay by eTransfer, Google Pay, or cash.",payments,Payment
+    Can I order pay on delivery,"You are welcome to pay by eTransfer, Google Pay, or in cash.",payments,Payment
+Can you deliver the pizzas?,We can deliver on everywhere in campus,delivery,Delivery
+    Do you make delivery?,    Of course! We would be glad to deliver it to your place at campus.,delivery,Delivery
+    Is delivery available?,    We deliver 24/7 in every places all over campus,delivery,Delivery
+What is special on the menu?,"As per costumer reviews we recommend you to try New York Chicken Pizza.,",special,Food
+    Do you have any special?,    New York Chicken Pizza is liked by most of the costumers.,special,Food
+    What do you recommend?,    You definitely should try New York Chicken Pizza.,special,Food
+"    ""Whats todays special?""",    You will never regret trying New York Chicken Pizza.,special,Food
+    Recommend me special Pizza?,   We recommend you to try New York Chicken Pizza.,special,Food
+How much does veg pizza cost?,It is 5 dollars for Small 8 dollars for Medium and 10 dollars for Large.,veg_cost,Cost
+    Can I know the price of veg pizza?,"    You can get small for 5 dollars, Medium for 8 dollars and Large for 10 dollars.",veg_cost,Cost
+How much do I pay for veg pizza?,"    The prices are Small-5 dollars, Medium-8 dollars and Large-10 dollars.",veg_cost,Cost
+    What is the cost of veg pizza?,"The prices for Small is 5 dollars, for Medium is 8 dollars and for Large is 10 dollars.",veg_cost,Cost
+    What is the price of veg pizza?,You need to pay 5 dollars for Small 8 dollars for Medium and 10 dollars for Large.,veg_cost,Cost
+How much does chicken pizza cost?,It is 7 dollars for Small 10 dollars for Medium and 12 dollars for Large.,chicken_cost,Cost
+    Can I know the price of chicken pizza?,"    You can get small for 7 dollars, Medium for 10 dollars and Large for 12 dollars.",chicken_cost,Cost
+How much do I pay for chicken pizza?,"    The prices are Small-7 dollars,Medium-10 dollars and Large-12 dollars.",chicken_cost,Cost
+    What is the cost of chicken pizza?,You need to pay 7 dollars for Small 10 dollars for Medium and 12 dollars for Large.,chicken_cost,Cost
+    What is the price of chicken pizza?,"    The prices are Small-7 dollars,Medium-10 dollars and Large-12 dollars.",chicken_cost,Cost
