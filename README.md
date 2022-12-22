@@ -14,7 +14,7 @@ Data set and statistical analysis in R.
 
 •	Trained clustering models and topic modelling models for clustering tasks.
 
-•	Created a fully functional chatbot with Google Dialog flow.
+•	Created a fully functional chatbot with Google Dialogflow.
 
 Data set, machine learning models with BOW embedding and TF-IDF embedding.
 
